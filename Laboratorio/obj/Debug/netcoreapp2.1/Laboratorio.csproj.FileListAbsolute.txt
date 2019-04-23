@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\LaboratorioBanco\Laboratorio\Laboratorio\bin\Debug\netcoreapp2.1\Laboratorio.deps.json
+C:\Users\santi\OneDrive\Escritorio\LaboratorioBanco\Laboratorio\Laboratorio\bin\Debug\netcoreapp2.1\Laboratorio.runtimeconfig.json
+C:\Users\santi\OneDrive\Escritorio\LaboratorioBanco\Laboratorio\Laboratorio\bin\Debug\netcoreapp2.1\Laboratorio.runtimeconfig.dev.json
+C:\Users\santi\OneDrive\Escritorio\LaboratorioBanco\Laboratorio\Laboratorio\bin\Debug\netcoreapp2.1\Laboratorio.dll
+C:\Users\santi\OneDrive\Escritorio\LaboratorioBanco\Laboratorio\Laboratorio\bin\Debug\netcoreapp2.1\Laboratorio.pdb
+C:\Users\santi\OneDrive\Escritorio\LaboratorioBanco\Laboratorio\Laboratorio\obj\Debug\netcoreapp2.1\Laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\LaboratorioBanco\Laboratorio\Laboratorio\obj\Debug\netcoreapp2.1\Laboratorio.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Escritorio\LaboratorioBanco\Laboratorio\Laboratorio\obj\Debug\netcoreapp2.1\Laboratorio.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Escritorio\LaboratorioBanco\Laboratorio\Laboratorio\obj\Debug\netcoreapp2.1\Laboratorio.dll
+C:\Users\santi\OneDrive\Escritorio\LaboratorioBanco\Laboratorio\Laboratorio\obj\Debug\netcoreapp2.1\Laboratorio.pdb
